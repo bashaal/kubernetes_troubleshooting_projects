@@ -1,0 +1,16 @@
+# Local environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+kubeconfig
+.kube/
+
+# Temporary and editor files
+*.log
+*.tmp
+*.swp
+.DS_Store
+.vscode/
+.idea/
